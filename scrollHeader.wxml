@@ -1,0 +1,4 @@
+<view class="refresh-block" style="height:{{refreshHeight}}px; "> 
+
+         <text  class="refreshing_text">{{refreshing_text}}</text>  
+</view>
